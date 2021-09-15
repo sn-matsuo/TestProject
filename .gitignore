@@ -6,3 +6,6 @@ Intermediate/
 
 # DerivedDataCache も一人作業用リポジトリなので排除
 DerivedDataCache/
+
+# Config も邪魔なので排除
+Config/
