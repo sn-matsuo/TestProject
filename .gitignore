@@ -1,6 +1,8 @@
-# Saved以下を排除
+# Saved 以下を排除
 Saved/
 
-# Intermediate以下を排除
+# Intermediate 以下を排除
 Intermediate/
 
+# DerivedDataCache も一人作業用リポジトリなので排除
+DerivedDataCache/
